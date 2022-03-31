@@ -25,3 +25,7 @@ Pandas is a powerful Python data analysis toolkit for :
 3. The columns in the dataset are 'Name', 'Location', 'Year', 'Kilometers_Driven', 'Fuel_Type','Transmission', 'Owner_Type', 'Mileage', 'Engine', 'Power', 'Seats','New_Price', 'Price'.
 4. The dataset consist of the pre-owned cars in 11 different states in India (ie) 'Mumbai' 'Pune' 'Chennai' 'Coimbatore' 'Hyderabad' 'Jaipur' 'Kochi','Kolkata' 'Delhi' 'Bangalore' 'Ahmedabad'.
 5. We see that Mumbai,Hyderabad ,Kochi ,Coimbatore have the majority pre-owned cars. Mumbai has about 790 preowned cars followed by Hyderabad with 742. Kochi and Coimbatore has 651 and 636 pre-owned cars. 
+
+
+## SOFTWARE USED: 
+Jupytr Notebook
