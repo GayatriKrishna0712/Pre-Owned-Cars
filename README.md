@@ -28,4 +28,4 @@ Pandas is a powerful Python data analysis toolkit for :
 
 
 ## SOFTWARE USED: 
-Jupytr Notebook
+Jupyter Notebook
