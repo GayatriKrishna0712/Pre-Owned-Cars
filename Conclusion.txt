@@ -16,7 +16,8 @@ that again Mumbai,Hyderabad ,Kochi ,Coimbatore have the majority pre-owned cars.
 4. From the dataset given we see that there are two types of transmissions (ie) automatic and manual. Here we see that most of the people in India prefer manual 
 cars over the automatic.The reason is that automatic cars though it came to India but it wasn't that famous. The automatic cars gained popularity from last 3 years.
 The barplots below would help us know the reasons behind the popularity of manual cars over the automatic ones. The above bar plot is shows the price of the cars 
-based on the transmission. Clearly manual cars price less compared to automatic cars. So this could be one reason why the manual users were more than automatic users. The automatic cars are more expensive as the AT gearboxes cost carmakers more money as most of them are not made in India unlike the manual versions.
+based on the transmission. Clearly manual cars price less compared to automatic cars. So this could be one reason why the manual users were more than automatic users.
+The automatic cars are more expensive as the AT gearboxes cost carmakers more money as most of them are not made in India unlike the manual versions.
 
 
 5. Next observation is that Sales of diesel automatic car is less than diesel manual. We also see that diesel and  petrol have similar proportions of Manual cars but Diesel has more Automatic cars.
