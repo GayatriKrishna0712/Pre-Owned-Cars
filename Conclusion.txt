@@ -1,0 +1,58 @@
+CONCLUSIONS:
+
+1. First thing we see if the dataset has any missing values. We observe that 5 columns namely New_Price,Seats,Engine,Power and Mileage have missing values. 
+Majority of the new price values were missing (ie) 86.3100%.
+
+
+2. We see that there are 5 different types of fuel type (ie) Diesel, Petrol,CNG,LPG and Electric. The contribution of electric cars is very less (ie) 2 cars. 
+We observe that in India, people prefer diesel and petrol cars over LPG,CNG and electric. Alternative fuels make up a very small market share. Dielsel is slightly 
+more populat than Petrol. 
+
+
+3. So now the dataset consists of only Petrol and Diesel cars. About 1.129% of the data is lost(removing alternative fuels) which is a small percentage. So we see 
+that again Mumbai,Hyderabad ,Kochi ,Coimbatore have the majority pre-owned cars. This is clear from the bar chart too. 
+
+
+4. From the dataset given we see that there are two types of transmissions (ie) automatic and manual. Here we see that most of the people in India prefer manual 
+cars over the automatic.The reason is that automatic cars though it came to India but it wasn't that famous. The automatic cars gained popularity from last 3 years.
+The barplots below would help us know the reasons behind the popularity of manual cars over the automatic ones. The above bar plot is shows the price of the cars 
+based on the transmission. Clearly manual cars price less compared to automatic cars. So this could be one reason why the manual users were more than automatic users. The automatic cars are more expensive as the AT gearboxes cost carmakers more money as most of them are not made in India unlike the manual versions.
+
+
+5. Next observation is that Sales of diesel automatic car is less than diesel manual. We also see that diesel and 
+petrol have similar proportions of Manual cars but Diesel has more Automatic cars.
+
+
+6.Next observation is that Sales of diesel automatic car is less than diesel manual. We also see that diesel and 
+petrol have similar proportions of Manual cars but Diesel has more Automatic cars.
+
+
+7. From the above bar chart we see that the year 2014 had the highest sales of pre-owned cars (ie) 785 units. 
+
+
+8. From the histogram we see that majority of the cars driven for less than 2,00,000 kms. For selling a car the 
+targetting kilometer to be driven is 58771.243 km. 
+
+
+9. There are 1847 names of cars in the dataset. So for uniformity, we converted all the names to upper case. But 
+there are same cars with different model. So we can ignore the model n combine all of them under one car. 
+
+
+10. So once we are done with that, we see that the number of car names gets reduced to 1329. 
+
+
+11. The various brands present in the dataset are: 'HYUNDAI','HONDA','MARUTI','AUDI','NISSAN','TOYOTA', 'VOLKSWAGEN'
+,'TATA','LAND','MITSUBISHI','RENAULT','MERCEDES-BENZ','BMW','MAHINDRA','FORD','PORSCHE','DATSUN','JAGUAR','VOLVO',
+'CHEVROLET','SKODA''MINI','FIAT','JEEP','SMART','AMBASSADOR','ISUZU','FORCE','BENTLEY' and 'LAMBORGHINI'. It is 
+clear from the graph that Maruthi has the highest sales in India. 
+
+
+12. We observe that  Milage has km/kg or kmpl, Engine has CC,Power has bhp as units. 
+These are called the substrings. We need to remove them and also convert these values into float so as to help 
+us for further statistical analysis. It is important to convert these values into loat because these values are 
+stored as a string and with that we can't do any statistical analysis as statistical analysis can be done only for 
+numerical values. 
+
+
+
+
