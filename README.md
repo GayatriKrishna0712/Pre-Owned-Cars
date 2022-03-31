@@ -10,6 +10,14 @@ Pandas is a powerful Python data analysis toolkit for :
 2. Functions for filtering, selecting and manipulating the data
 3. Plotting data for visualization and exploration    purposes
 
+## LIBRARIES USED:
+1.  pandas
+2.  numpy
+3.  matplotlib
+4.  stats
+5.  seaborn
+
+
 
 ## ABOUT THE DATA:
 1. The dataset is about the the pre-owned cars from 1998 to 2019. 
